@@ -1,5 +1,4 @@
 # Desafio de Projeto: Programa de Leitores de Biblioteca em Ruby
-
 # Descrição
 
 # Crie um programa em Ruby que solicita ao usuário seu nome, sobrenome e idade. O programa deve então imprimir esses dados em uma única frase, que será utilizada pelo departamento de marketing da biblioteca.
