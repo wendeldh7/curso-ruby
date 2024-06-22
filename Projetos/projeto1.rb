@@ -23,7 +23,7 @@
 # Instruções
 
 # 1. Crie um arquivo Ruby (.rb).
-# 2. Implemente o código conforme descrito abaixo.
+# 2. Implemente o código conforme descrito acima.
 
 
 
