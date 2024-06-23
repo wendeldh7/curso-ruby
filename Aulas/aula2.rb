@@ -1,4 +1,5 @@
 # Desafio de Código Ruby
+
 # Crie um programa em Ruby que peça ao usuário para digitar dois números. O programa deve permitir que o usuário preencha esses dados utilizando gets.chomp, para  converter as entradas de string para inteiros usando .to_i, somar os dois números e, em seguida, exibar o resultado da soma na tela.
 
 # Instruções:
